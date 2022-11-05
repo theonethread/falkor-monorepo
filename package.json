@@ -43,9 +43,18 @@
   },
   "engineStrict": true,
   "workspaces": [
-    "packages/*"
+    "packages/falkor-bundler",
+    "packages/falkor-auth-server",
+    "packages/falkor-library",
+    "packages/falkor-commander",
+    "packages/falkor-plugin-example"
   ],
-  "scripts": {},
+  "scripts": {
+    "debug": "npm run debug --workspaces --if-present",
+    "release": "npm run release --workspaces --if-present",
+    "lint": "npm run lint --workspaces --if-present",
+    "prepublishOnly": "npm run prepublishOnly --workspaces --if-present"
+  },
   "devDependencies": {},
   "dependencies": {}
 }
