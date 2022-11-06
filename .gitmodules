@@ -1,20 +1,20 @@
 [submodule "packages/falkor-bundler"]
-	path = packages/falkor-bundler
+	path = shared_modules/falkor-bundler
 	url = git@github.com:theonethread/falkor-bundler.git
 	branch = develop
 [submodule "packages/falkor-auth-server"]
-	path = packages/falkor-auth-server
+	path = projects/falkor-auth-server
 	url = git@github.com:theonethread/falkor-auth-server.git
 	branch = develop
 [submodule "packages/falkor-library"]
-	path = packages/falkor-library
+	path = shared_modules/falkor-library
 	url = git@github.com:theonethread/falkor-library.git
 	branch = develop
 [submodule "packages/falkor-commander"]
-	path = packages/falkor-commander
+	path = shared_modules/falkor-commander
 	url = git@github.com:theonethread/falkor-commander.git
 	branch = develop
 [submodule "packages/falkor-plugin-example"]
-	path = packages/falkor-plugin-example
+	path = template/falkor-plugin-example
 	url = git@github.com:theonethread/falkor-plugin-example.git
 	branch = develop
