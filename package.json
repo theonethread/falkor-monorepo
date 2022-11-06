@@ -46,8 +46,8 @@
     "shared_modules/falkor-bundler",
     "shared_modules/falkor-library",
     "shared_modules/falkor-commander",
-    "template/falkor-plugin-example",
-    "projects/falkor-auth-server"
+    "projects/falkor-auth-server",
+    "projects/falkor-plugin-example"
   ],
   "scripts": {
     "debug": "npm run debug --workspaces --if-present",

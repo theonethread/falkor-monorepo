@@ -15,6 +15,6 @@
 	url = git@github.com:theonethread/falkor-commander.git
 	branch = develop
 [submodule "packages/falkor-plugin-example"]
-	path = template/falkor-plugin-example
+	path = projects/falkor-plugin-example
 	url = git@github.com:theonethread/falkor-plugin-example.git
 	branch = develop
