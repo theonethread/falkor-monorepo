@@ -15,7 +15,7 @@
   "license": "MIT",
   "private": true,
   "homepage": "https://github.com/theonethread/falkor-monorepo/#readme",
-  "repository": "github:theonethread/falkor-bundler",
+  "repository": "github:theonethread/falkor-monorepo",
   "bugs": "https://github.com/theonethread/falkor-monorepo/issues",
   "funding": [
     {
