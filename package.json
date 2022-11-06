@@ -43,11 +43,11 @@
   },
   "engineStrict": true,
   "workspaces": [
-    "packages/falkor-bundler",
-    "packages/falkor-auth-server",
-    "packages/falkor-library",
-    "packages/falkor-commander",
-    "packages/falkor-plugin-example"
+    "shared_modules/falkor-bundler",
+    "shared_modules/falkor-library",
+    "shared_modules/falkor-commander",
+    "template/falkor-plugin-example",
+    "projects/falkor-auth-server"
   ],
   "scripts": {
     "debug": "npm run debug --workspaces --if-present",
