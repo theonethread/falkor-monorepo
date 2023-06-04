@@ -3,8 +3,8 @@
 	url = git@github.com:theonethread/falkor-cspell-config.git
 	branch = develop
 [submodule "packages/falkor-prettier-config"]
-	path = shared_modules/falkor-cspell-config
-	url = git@github.com:theonethread/falkor-cspell-config.git
+	path = shared_modules/falkor-prettier-config
+	url = git@github.com:theonethread/falkor-prettier-config.git
 	branch = develop
 [submodule "packages/falkor-bundler"]
 	path = shared_modules/falkor-bundler
