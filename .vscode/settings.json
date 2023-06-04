@@ -24,5 +24,6 @@
     ".dist": true,
     ".tmp": true,
     ".man": true
-  }
+  },
+  "cmake.configureOnOpen": false
 }
