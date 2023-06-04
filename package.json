@@ -58,8 +58,8 @@
     "prepublishOnly": "npm run prepublishOnly --workspaces --if-present"
   },
   "devDependencies": {
-    "@falkor/falkor-prettier-config": "0.0.1",
-    "@falkor/falkor-cspell-config": "0.0.1"
+    "@falkor/falkor-cspell-config": "0.0.1",
+    "@falkor/falkor-prettier-config": "0.0.1"
   },
   "dependencies": {}
 }
