@@ -43,6 +43,8 @@
   },
   "engineStrict": true,
   "workspaces": [
+    "shared_modules/falkor-cspell-config",
+    "shared_modules/falkor-prettier-config",
     "shared_modules/falkor-bundler",
     "shared_modules/falkor-library",
     "shared_modules/falkor-commander",
@@ -55,6 +57,9 @@
     "lint": "npm run lint --workspaces --if-present",
     "prepublishOnly": "npm run prepublishOnly --workspaces --if-present"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@falkor/falkor-prettier-config": "0.0.1",
+    "@falkor/falkor-cspell-config": "0.0.1"
+  },
   "dependencies": {}
 }
