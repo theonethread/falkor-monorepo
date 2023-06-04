@@ -1,3 +1,7 @@
+[submodule "packages/falkor-cspell-config"]
+	path = shared_modules/falkor-cspell-config
+	url = git@github.com:theonethread/falkor-cspell-config.git
+	branch = develop
 [submodule "packages/falkor-bundler"]
 	path = shared_modules/falkor-bundler
 	url = git@github.com:theonethread/falkor-bundler.git
