@@ -6,13 +6,16 @@ Monorepo for easier Falkor Framework development.
 
 The workspaces used in this project build upon each other, so the order in [`package.json`](package.json "Open") matters. All packages in the repo are built in a way that they can be cloned and developed independently, but for the organization to save space and bandwidth, this approach is preferred. The packages included are the following:
 
-* Shared modules
+* Documentation ([`/doc`](/doc "Open"))
+    * [`@falkor/falkor-knowledge-base`](https://github.com/theonethread/falkor-knowledge-base/#readme "Open")
+
+* Shared modules ([`/shared_modules/*`](/shared_modules "Open"))
     * [`@falkor/falkor-cspell-config`](https://github.com/theonethread/falkor-cspell-config/#readme "Open")
     * [`@falkor/falkor-prettier-config`](https://github.com/theonethread/falkor-prettier-config/#readme "Open")
     * [`@falkor/falkor-bundler`](https://github.com/theonethread/falkor-bundler/#readme "Open")
     * [`@falkor/falkor-library`](https://github.com/theonethread/falkor-library/#readme "Open")
     * [`@falkor/falkor-commander`](https://github.com/theonethread/falkor-commander/#readme "Open")
-* Projects
+* Projects ([`/projects/*`](/projects "Open"))
     * [`@falkor/falkor-auth-server`](https://github.com/theonethread/falkor-auth-server/#readme "Open")
     * [`@falkor/falkor-plugin-example`](https://github.com/theonethread/falkor-plugin-example/#readme "Open")
 
