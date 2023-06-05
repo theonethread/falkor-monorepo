@@ -6,7 +6,7 @@ Monorepo for easier Falkor Framework development.
 
 The workspaces used in this project build upon each other, so the order in [`package.json`](package.json "Open") matters. All packages in the repo are built in a way that they can be cloned and developed independently, but for the organization to save space and bandwidth, this approach is preferred. The packages included are the following:
 
-* Documentation ([`/doc`](/doc "Open"))
+* Documentation (`/doc`)
     * [`@falkor/falkor-knowledge-base`](https://github.com/theonethread/falkor-knowledge-base/#readme "Open")
 
 * Shared modules ([`/shared_modules/*`](/shared_modules "Open"))
