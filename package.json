@@ -45,6 +45,8 @@
   "workspaces": [
     "shared_modules/falkor-cspell-config",
     "shared_modules/falkor-prettier-config",
+    "shared_modules/falkor-eslint-config",
+    "shared_modules/falkor-jest-config",
     "shared_modules/falkor-bundler",
     "shared_modules/falkor-library",
     "shared_modules/falkor-commander",

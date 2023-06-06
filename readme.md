@@ -12,6 +12,8 @@ The workspaces used in this project build upon each other, so the order in [`pac
 * Shared modules ([`/shared_modules/*`](/shared_modules "Open"))
     * [`@falkor/falkor-cspell-config`](https://github.com/theonethread/falkor-cspell-config/#readme "Open")
     * [`@falkor/falkor-prettier-config`](https://github.com/theonethread/falkor-prettier-config/#readme "Open")
+    * [`@falkor/falkor-eslint-config`](https://github.com/theonethread/falkor-eslint-config/#readme "Open")
+    * [`@falkor/falkor-jest-config`](https://github.com/theonethread/falkor-jest-config/#readme "Open")
     * [`@falkor/falkor-bundler`](https://github.com/theonethread/falkor-bundler/#readme "Open")
     * [`@falkor/falkor-library`](https://github.com/theonethread/falkor-library/#readme "Open")
     * [`@falkor/falkor-commander`](https://github.com/theonethread/falkor-commander/#readme "Open")

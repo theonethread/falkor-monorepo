@@ -1,3 +1,7 @@
+[submodule "doc"]
+	path = doc
+	url = git@github.com:theonethread/falkor-knowledge-base.git
+	branch = develop
 [submodule "shared_modules/falkor-cspell-config"]
 	path = shared_modules/falkor-cspell-config
 	url = git@github.com:theonethread/falkor-cspell-config.git
@@ -6,27 +10,35 @@
 	path = shared_modules/falkor-prettier-config
 	url = git@github.com:theonethread/falkor-prettier-config.git
 	branch = develop
+[submodule "shared_modules/falkor-eslint-config"]
+	path = shared_modules/falkor-eslint-config
+	url = git@github.com:theonethread/falkor-eslint-config.git
+	branch = develop
+[submodule "shared_modules/falkor-jest-config"]
+	path = shared_modules/falkor-jest-config
+	url = git@github.com:theonethread/falkor-jest-config.git
+	branch = develop
+[submodule "shared_modules/falkor-jscc-webpack-plugin"]
+	path = shared_modules/falkor-jscc-webpack-plugin
+	url = git@github.com:theonethread/falkor-jscc-webpack-plugin.git
+	branch = develop
 [submodule "shared_modules/falkor-bundler"]
 	path = shared_modules/falkor-bundler
 	url = git@github.com:theonethread/falkor-bundler.git
+	branch = develop
+[submodule "shared_modules/falkor-library"]
+	path = shared_modules/falkor-library
+	url = git@github.com:theonethread/falkor-library.git
+	branch = develop
+[submodule "shared_modules/falkor-commander"]
+	path = shared_modules/falkor-commander
+	url = git@github.com:theonethread/falkor-commander.git
 	branch = develop
 [submodule "projects/falkor-auth-server"]
 	path = projects/falkor-auth-server
 	url = git@github.com:theonethread/falkor-auth-server.git
 	branch = develop
-[submodule "projects/falkor-library"]
-	path = shared_modules/falkor-library
-	url = git@github.com:theonethread/falkor-library.git
-	branch = develop
-[submodule "projects/falkor-commander"]
-	path = shared_modules/falkor-commander
-	url = git@github.com:theonethread/falkor-commander.git
-	branch = develop
 [submodule "projects/falkor-plugin-example"]
 	path = projects/falkor-plugin-example
 	url = git@github.com:theonethread/falkor-plugin-example.git
-	branch = develop
-[submodule "doc"]
-	path = doc
-	url = git@github.com:theonethread/falkor-knowledge-base.git
 	branch = develop
