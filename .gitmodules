@@ -42,3 +42,7 @@
 	path = projects/falkor-plugin-example
 	url = git@github.com:theonethread/falkor-plugin-example.git
 	branch = develop
+[submodule "projects/verdaccio-plugin-falkor-auth"]
+	path = projects/verdaccio-plugin-falkor-auth
+	url = git@github.com:theonethread/verdaccio-plugin-falkor-auth.git
+	branch = develop

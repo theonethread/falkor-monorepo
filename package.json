@@ -50,8 +50,10 @@
     "shared_modules/falkor-bundler",
     "shared_modules/falkor-library",
     "shared_modules/falkor-commander",
+    "shared_modules/falkor-jscc-webpack-plugin",
     "projects/falkor-auth-server",
     "projects/falkor-plugin-example",
+    "projects/verdaccio-plugin-falkor-auth",
     "doc"
   ],
   "scripts": {
