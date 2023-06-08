@@ -18,10 +18,6 @@
 	path = shared_modules/falkor-jest-config
 	url = git@github.com:theonethread/falkor-jest-config.git
 	branch = develop
-[submodule "shared_modules/falkor-jscc-webpack-plugin"]
-	path = shared_modules/falkor-jscc-webpack-plugin
-	url = git@github.com:theonethread/falkor-jscc-webpack-plugin.git
-	branch = develop
 [submodule "shared_modules/falkor-bundler"]
 	path = shared_modules/falkor-bundler
 	url = git@github.com:theonethread/falkor-bundler.git
@@ -41,6 +37,10 @@
 [submodule "projects/falkor-plugin-example"]
 	path = projects/falkor-plugin-example
 	url = git@github.com:theonethread/falkor-plugin-example.git
+	branch = develop
+[submodule "projects/falkor-jscc-webpack-plugin"]
+	path = projects/falkor-jscc-webpack-plugin
+	url = git@github.com:theonethread/falkor-jscc-webpack-plugin.git
 	branch = develop
 [submodule "projects/verdaccio-plugin-falkor-auth"]
 	path = projects/verdaccio-plugin-falkor-auth
