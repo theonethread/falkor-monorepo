@@ -14,13 +14,14 @@ The workspaces used in this project build upon each other, so the order in [`pac
     * [`@falkor/falkor-prettier-config`](https://github.com/theonethread/falkor-prettier-config/#readme "Open")
     * [`@falkor/falkor-eslint-config`](https://github.com/theonethread/falkor-eslint-config/#readme "Open")
     * [`@falkor/falkor-jest-config`](https://github.com/theonethread/falkor-jest-config/#readme "Open")
-    * [`@falkor/falkor-jscc-webpack-plugin`](https://github.com/theonethread/falkor-jscc-webpack-plugin/#readme "Open")
     * [`@falkor/falkor-bundler`](https://github.com/theonethread/falkor-bundler/#readme "Open")
     * [`@falkor/falkor-library`](https://github.com/theonethread/falkor-library/#readme "Open")
     * [`@falkor/falkor-commander`](https://github.com/theonethread/falkor-commander/#readme "Open")
 * Projects ([`/projects/*`](/projects "Open"))
     * [`@falkor/falkor-auth-server`](https://github.com/theonethread/falkor-auth-server/#readme "Open")
+    * [`@falkor/falkor-jscc-webpack-plugin`](https://github.com/theonethread/falkor-jscc-webpack-plugin/#readme "Open")
     * [`@falkor/falkor-plugin-example`](https://github.com/theonethread/falkor-plugin-example/#readme "Open")
+    * [`@falkor/verdaccio-plugin-falkor-auth`](https://github.com/theonethread/verdaccio-plugin-falkor-auth/#readme "Open")
 
 ## **Further Development**
 
